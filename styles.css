@@ -67,7 +67,7 @@ body {
 .post-body {
     padding: 16px;
     font-size: 16"px;
-    color: #333;
+    color; #333{color: aliceblue;}
 }
 
 .post-body p {
